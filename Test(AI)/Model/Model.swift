@@ -8,7 +8,7 @@
 import Foundation
 
 class Model {
-    
+    //
     private var value1: Double = 0
     
     private var value2: Double = 0
